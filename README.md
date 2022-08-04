@@ -15,7 +15,7 @@
 ## About The Project
   Console Application which help to do your daily work routine.
 
-Why Amigo:
+Why Bluejack:
 * It can search on wikipedia.
 * It can open YouTube, Spotify, Whatsapp (if installed on your pc) and other cool stuff.
 * You can easily add your command.
@@ -36,31 +36,6 @@ elif 'YOUR VOICE COMMAND' in query:
             speak("YOUR COMMAND")
             ## YOUR CODE
 ```
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch 
-3. Commit your Changes
-4. Push to the Branch
-5. Open a Pull Request
-
-
-
-
-
-
-<!-- CONTACT -->
-## Contact
-LinkedIn
-[Jaspreet Singh](https://www.linkedin.com/in/jaspreetsidhu13/)
-
-More Projects
-GitHub: [JaspreetSidhu3](https://github.com/jaspreetsidhu3)
 
 
 
